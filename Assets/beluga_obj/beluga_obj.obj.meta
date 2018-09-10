@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 1b62a9016aad36b4eaaa145b54860c8d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: adult
+    100002: //RootNode
+    100004: bg_EYE_L_c01
+    100006: bg_EYE_L_c03
+    100008: bg_EYE_L_c04
+    100010: bg_EYE_L_p01
+    100012: bg_EYE_L_p03
+    100014: bg_EYE_L_p04
+    100016: bg_EYE_R_c01
+    100018: bg_EYE_R_c03
+    100020: bg_EYE_R_c04
+    100022: bg_EYE_R_p01
+    100024: bg_EYE_R_p03
+    100026: bg_EYE_R_p04
+    100028: cub
+    100030: young
+    400000: adult
+    400002: //RootNode
+    400004: bg_EYE_L_c01
+    400006: bg_EYE_L_c03
+    400008: bg_EYE_L_c04
+    400010: bg_EYE_L_p01
+    400012: bg_EYE_L_p03
+    400014: bg_EYE_L_p04
+    400016: bg_EYE_R_c01
+    400018: bg_EYE_R_c03
+    400020: bg_EYE_R_c04
+    400022: bg_EYE_R_p01
+    400024: bg_EYE_R_p03
+    400026: bg_EYE_R_p04
+    400028: cub
+    400030: young
+    2300000: adult
+    2300002: bg_EYE_L_c01
+    2300004: bg_EYE_L_c03
+    2300006: bg_EYE_L_c04
+    2300008: bg_EYE_L_p01
+    2300010: bg_EYE_L_p03
+    2300012: bg_EYE_L_p04
+    2300014: bg_EYE_R_c01
+    2300016: bg_EYE_R_c03
+    2300018: bg_EYE_R_c04
+    2300020: bg_EYE_R_p01
+    2300022: bg_EYE_R_p03
+    2300024: bg_EYE_R_p04
+    2300026: cub
+    2300028: young
+    3300000: adult
+    3300002: bg_EYE_L_c01
+    3300004: bg_EYE_L_c03
+    3300006: bg_EYE_L_c04
+    3300008: bg_EYE_L_p01
+    3300010: bg_EYE_L_p03
+    3300012: bg_EYE_L_p04
+    3300014: bg_EYE_R_c01
+    3300016: bg_EYE_R_c03
+    3300018: bg_EYE_R_c04
+    3300020: bg_EYE_R_p01
+    3300022: bg_EYE_R_p03
+    3300024: bg_EYE_R_p04
+    3300026: cub
+    3300028: young
+    4300000: adult
+    4300002: bg_EYE_L_c01
+    4300004: bg_EYE_L_c03
+    4300006: bg_EYE_L_c04
+    4300008: bg_EYE_L_p01
+    4300010: bg_EYE_L_p03
+    4300012: bg_EYE_L_p04
+    4300014: bg_EYE_R_c01
+    4300016: bg_EYE_R_c03
+    4300018: bg_EYE_R_c04
+    4300020: bg_EYE_R_p01
+    4300022: bg_EYE_R_p03
+    4300024: bg_EYE_R_p04
+    4300026: cub
+    4300028: young
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: adultMat
+    second: {fileID: 2100000, guid: 1456303a2edc47243ae7eb7c0c170d06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg_EYE_L_c01Mat
+    second: {fileID: 2100000, guid: 4771348cfe6671849a0632540af86d00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg_EYE_L_c03Mat
+    second: {fileID: 2100000, guid: b893373aa0146f44794d62fd32c1cc68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg_EYE_L_c04Mat
+    second: {fileID: 2100000, guid: 1477220229b0b1049873117597709d52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg_EYE_L_p01Mat
+    second: {fileID: 2100000, guid: 5d0d1ea4fb5efbb4ead3e83c698ee026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg_EYE_L_p03Mat
+    second: {fileID: 2100000, guid: 9031dded21f89dc489cb05b94717a52a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg_EYE_L_p04Mat
+    second: {fileID: 2100000, guid: a4a95011a45144d40b526b903bc85d44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg_EYE_R_c01Mat
+    second: {fileID: 2100000, guid: 6ef0e578ebb98ca46b09ca1534024efb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg_EYE_R_c03Mat
+    second: {fileID: 2100000, guid: bd5594923ccb3dd4aba06b18b743cd86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg_EYE_R_c04Mat
+    second: {fileID: 2100000, guid: a53dd369827c65f4580905d1491f81c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg_EYE_R_p01Mat
+    second: {fileID: 2100000, guid: 8ce27e1aadd56804893cba99f3948824, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg_EYE_R_p03Mat
+    second: {fileID: 2100000, guid: a08ac890da634f4489e12f2f264a9bbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg_EYE_R_p04Mat
+    second: {fileID: 2100000, guid: 89836a3aa5c437b43a60c1b8ae9ea17c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cubMat
+    second: {fileID: 2100000, guid: 3be67a13132ca0d4dbbc18ea92b907d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: youngMat
+    second: {fileID: 2100000, guid: e89de287fbb169744af1277c09d888c9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

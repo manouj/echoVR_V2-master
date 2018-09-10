@@ -1,0 +1,245 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch and 'origin/master' have diverged,
+# and have 2 and 1 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# Changes to be committed:
+#	modified:   .vs/Echolocation/v14/.suo
+#	modified:   Assets/Fish.prefab
+#	modified:   Assets/Main.unity
+#	deleted:    Assets/OVR.meta
+#	deleted:    Assets/OVR/Editor.meta
+#	deleted:    Assets/OVR/Editor/AndroidManifest.OVRSubmission.xml
+#	deleted:    Assets/OVR/Editor/AndroidManifest.OVRSubmission.xml.meta
+#	deleted:    Assets/OVR/Editor/OVRBuild.cs
+#	deleted:    Assets/OVR/Editor/OVRBuild.cs.meta
+#	deleted:    Assets/OVR/Editor/OVRManifestPreprocessor.cs
+#	deleted:    Assets/OVR/Editor/OVRManifestPreprocessor.cs.meta
+#	deleted:    Assets/OVR/Editor/OVRMoonlightLoader.cs
+#	deleted:    Assets/OVR/Editor/OVRMoonlightLoader.cs.meta
+#	deleted:    Assets/OVR/Editor/OVRScreenshotWizard.cs
+#	deleted:    Assets/OVR/Editor/OVRScreenshotWizard.cs.meta
+#	deleted:    Assets/OVR/Materials.meta
+#	deleted:    Assets/OVR/Materials/Arrow.mat
+#	deleted:    Assets/OVR/Materials/Arrow.mat.meta
+#	deleted:    Assets/OVR/Materials/CubeMaterial.mat
+#	deleted:    Assets/OVR/Materials/CubeMaterial.mat.meta
+#	deleted:    Assets/OVR/Materials/cursor_timer_material.mat
+#	deleted:    Assets/OVR/Materials/cursor_timer_material.mat.meta
+#	deleted:    Assets/OVR/Materials/gaze_cursor.mat
+#	deleted:    Assets/OVR/Materials/gaze_cursor.mat.meta
+#	deleted:    Assets/OVR/Meshes.meta
+#	deleted:    Assets/OVR/Meshes/Cone.obj
+#	deleted:    Assets/OVR/Meshes/Cone.obj.meta
+#	deleted:    Assets/OVR/Prefabs.meta
+#	deleted:    Assets/OVR/Prefabs/Cursor_Timer.prefab
+#	deleted:    Assets/OVR/Prefabs/Cursor_Timer.prefab.meta
+#	deleted:    Assets/OVR/Prefabs/OVRCameraRig.prefab
+#	deleted:    Assets/OVR/Prefabs/OVRCameraRig.prefab.meta
+#	deleted:    Assets/OVR/Prefabs/OVRCubemapCaptureProbe.prefab
+#	deleted:    Assets/OVR/Prefabs/OVRCubemapCaptureProbe.prefab.meta
+#	deleted:    Assets/OVR/Prefabs/OVRPlayerController.prefab
+#	deleted:    Assets/OVR/Prefabs/OVRPlayerController.prefab.meta
+#	deleted:    Assets/OVR/Resources.meta
+#	deleted:    Assets/OVR/Resources/Unlit Transparent Color.shader
+#	deleted:    Assets/OVR/Resources/Unlit Transparent Color.shader.meta
+#	deleted:    Assets/OVR/Scenes.meta
+#	deleted:    Assets/OVR/Scenes/Cubes.unity
+#	deleted:    Assets/OVR/Scenes/Cubes.unity.meta
+#	deleted:    Assets/OVR/Scenes/Room.unity
+#	deleted:    Assets/OVR/Scenes/Room.unity.meta
+#	deleted:    Assets/OVR/Scenes/Trivial.unity
+#	deleted:    Assets/OVR/Scenes/Trivial.unity.meta
+#	deleted:    Assets/OVR/Scripts.meta
+#	deleted:    Assets/OVR/Scripts/OVRBoundary.cs
+#	deleted:    Assets/OVR/Scripts/OVRBoundary.cs.meta
+#	deleted:    Assets/OVR/Scripts/OVRCameraRig.cs
+#	deleted:    Assets/OVR/Scripts/OVRCameraRig.cs.meta
+#	deleted:    Assets/OVR/Scripts/OVRCommon.cs
+#	deleted:    Assets/OVR/Scripts/OVRCommon.cs.meta
+#	deleted:    Assets/OVR/Scripts/OVRDebugHeadController.cs
+#	deleted:    Assets/OVR/Scripts/OVRDebugHeadController.cs.meta
+#	deleted:    Assets/OVR/Scripts/OVRDisplay.cs
+#	deleted:    Assets/OVR/Scripts/OVRDisplay.cs.meta
+#	deleted:    Assets/OVR/Scripts/OVRHaptics.cs
+#	deleted:    Assets/OVR/Scripts/OVRHaptics.cs.meta
+#	deleted:    Assets/OVR/Scripts/OVRHapticsClip.cs
+#	deleted:    Assets/OVR/Scripts/OVRHapticsClip.cs.meta
+#	deleted:    Assets/OVR/Scripts/OVRInput.cs
+#	deleted:    Assets/OVR/Scripts/OVRInput.cs.meta
+#	deleted:    Assets/OVR/Scripts/OVRManager.cs
+#	deleted:    Assets/OVR/Scripts/OVRManager.cs.meta
+#	deleted:    Assets/OVR/Scripts/OVROnCompleteListener.cs
+#	deleted:    Assets/OVR/Scripts/OVROnCompleteListener.cs.meta
+#	deleted:    Assets/OVR/Scripts/OVROverlay.cs
+#	deleted:    Assets/OVR/Scripts/OVROverlay.cs.meta
+#	deleted:    Assets/OVR/Scripts/OVRPlatformMenu.cs
+#	deleted:    Assets/OVR/Scripts/OVRPlatformMenu.cs.meta
+#	deleted:    Assets/OVR/Scripts/OVRPlugin.cs
+#	deleted:    Assets/OVR/Scripts/OVRPlugin.cs.meta
+#	deleted:    Assets/OVR/Scripts/OVRProfile.cs
+#	deleted:    Assets/OVR/Scripts/OVRProfile.cs.meta
+#	deleted:    Assets/OVR/Scripts/OVRTouchpad.cs
+#	deleted:    Assets/OVR/Scripts/OVRTouchpad.cs.meta
+#	deleted:    Assets/OVR/Scripts/OVRTracker.cs
+#	deleted:    Assets/OVR/Scripts/OVRTracker.cs.meta
+#	deleted:    Assets/OVR/Scripts/Util.meta
+#	deleted:    Assets/OVR/Scripts/Util/OVRChromaticAberration.cs
+#	deleted:    Assets/OVR/Scripts/Util/OVRChromaticAberration.cs.meta
+#	deleted:    Assets/OVR/Scripts/Util/OVRCubemapCapture.cs
+#	deleted:    Assets/OVR/Scripts/Util/OVRCubemapCapture.cs.meta
+#	deleted:    Assets/OVR/Scripts/Util/OVRDebugInfo.cs
+#	deleted:    Assets/OVR/Scripts/Util/OVRDebugInfo.cs.meta
+#	deleted:    Assets/OVR/Scripts/Util/OVRGridCube.cs
+#	deleted:    Assets/OVR/Scripts/Util/OVRGridCube.cs.meta
+#	deleted:    Assets/OVR/Scripts/Util/OVRModeParms.cs
+#	deleted:    Assets/OVR/Scripts/Util/OVRModeParms.cs.meta
+#	deleted:    Assets/OVR/Scripts/Util/OVRMonoscopic.cs
+#	deleted:    Assets/OVR/Scripts/Util/OVRMonoscopic.cs.meta
+#	deleted:    Assets/OVR/Scripts/Util/OVRPlayerController.cs
+#	deleted:    Assets/OVR/Scripts/Util/OVRPlayerController.cs.meta
+#	deleted:    Assets/OVR/Scripts/Util/OVRRTOverlayConnector.cs
+#	deleted:    Assets/OVR/Scripts/Util/OVRRTOverlayConnector.cs.meta
+#	deleted:    Assets/OVR/Scripts/Util/OVRResetOrientation.cs
+#	deleted:    Assets/OVR/Scripts/Util/OVRResetOrientation.cs.meta
+#	deleted:    Assets/OVR/Scripts/Util/OVRSceneSampleController.cs
+#	deleted:    Assets/OVR/Scripts/Util/OVRSceneSampleController.cs.meta
+#	deleted:    Assets/OVR/Scripts/Util/OVRScreenFade.cs
+#	deleted:    Assets/OVR/Scripts/Util/OVRScreenFade.cs.meta
+#	deleted:    Assets/OVR/Scripts/Util/OVRWaitCursor.cs
+#	deleted:    Assets/OVR/Scripts/Util/OVRWaitCursor.cs.meta
+#	deleted:    Assets/OVR/Shaders.meta
+#	deleted:    Assets/OVR/Shaders/OVRColorRampAlpha.shader
+#	deleted:    Assets/OVR/Shaders/OVRColorRampAlpha.shader.meta
+#	deleted:    Assets/OVR/Shaders/Unlit Crosshair.shader
+#	deleted:    Assets/OVR/Shaders/Unlit Crosshair.shader.meta
+#	deleted:    Assets/OVR/Textures.meta
+#	deleted:    Assets/OVR/Textures/Black.png
+#	deleted:    Assets/OVR/Textures/Black.png.meta
+#	deleted:    Assets/OVR/Textures/Icons.meta
+#	deleted:    Assets/OVR/Textures/Icons/OculusIcon.png
+#	deleted:    Assets/OVR/Textures/Icons/OculusIcon.png.meta
+#	deleted:    Assets/OVR/Textures/Logos.meta
+#	deleted:    Assets/OVR/Textures/Logos/OculusLogo.png
+#	deleted:    Assets/OVR/Textures/Logos/OculusLogo.png.meta
+#	deleted:    Assets/OVR/Textures/Logos/OculusLogoSplash.png
+#	deleted:    Assets/OVR/Textures/Logos/OculusLogoSplash.png.meta
+#	deleted:    Assets/OVR/Textures/color_ramp_timer.tga
+#	deleted:    Assets/OVR/Textures/color_ramp_timer.tga.meta
+#	deleted:    Assets/OVR/Textures/cube_texture.png
+#	deleted:    Assets/OVR/Textures/cube_texture.png.meta
+#	deleted:    Assets/OVR/Textures/gaze_cursor.png
+#	deleted:    Assets/OVR/Textures/gaze_cursor.png.meta
+#	deleted:    Assets/OVR/Textures/gaze_cursor_timer.tga
+#	deleted:    Assets/OVR/Textures/gaze_cursor_timer.tga.meta
+#	renamed:    Assets/sound files.meta -> Assets/Plugins.meta
+#	deleted:    Assets/Plugins/OVRGamepad.bundle.meta
+#	deleted:    Assets/Plugins/OVRGamepad.bundle/Contents.meta
+#	deleted:    Assets/Plugins/OVRGamepad.bundle/Contents/Info.plist
+#	deleted:    Assets/Plugins/OVRGamepad.bundle/Contents/Info.plist.meta
+#	deleted:    Assets/Plugins/OVRGamepad.bundle/Contents/MacOS.meta
+#	deleted:    Assets/Plugins/OVRGamepad.bundle/Contents/MacOS/OVRGamepad
+#	deleted:    Assets/Plugins/OVRGamepad.bundle/Contents/MacOS/OVRGamepad.meta
+#	modified:   Assets/Scripts/PlayerMove.cs
+#	deleted:    Assets/Standard Assets/Fonts.meta
+#	deleted:    Assets/Standard Assets/Fonts/OpenSans.meta
+#	deleted:    Assets/Standard Assets/Fonts/OpenSans/License!.txt
+#	deleted:    Assets/Standard Assets/Fonts/OpenSans/License!.txt.meta
+#	deleted:    Assets/Standard Assets/Fonts/OpenSans/OpenSansBold.ttf
+#	deleted:    Assets/Standard Assets/Fonts/OpenSans/OpenSansBold.ttf.meta
+#	deleted:    Assets/Standard Assets/Fonts/OpenSans/OpenSansLight.ttf
+#	deleted:    Assets/Standard Assets/Fonts/OpenSans/OpenSansLight.ttf.meta
+#	deleted:    Assets/Standard Assets/Fonts/OpenSans/OpenSansRegular.ttf
+#	deleted:    Assets/Standard Assets/Fonts/OpenSans/OpenSansRegular.ttf.meta
+#	deleted:    Assets/Standard Assets/Fonts/OpenSans/OpenSansSemibold.ttf
+#	deleted:    Assets/Standard Assets/Fonts/OpenSans/OpenSansSemibold.ttf.meta
+#	deleted:    Assets/Standard Assets/Fonts/Unipix.ttf
+#	deleted:    Assets/Standard Assets/Fonts/Unipix.ttf.meta
+#	modified:   Assets/Thermal Vision/Material/Thermal Vision.mat
+#	deleted:    Assets/sc.cs
+#	deleted:    Assets/sc.cs.meta
+#	deleted:    Assets/sound files/PB_ ambiance.mp3.meta
+#	deleted:    Assets/sound files/PB_ collideFood.mp3.meta
+#	deleted:    Assets/sound files/PB_ collideFoodShort.mp3
+#	deleted:    Assets/sound files/PB_ collideFoodShort.mp3.meta
+#	deleted:    Assets/sound files/PB_ collideObstacle.mp3.meta
+#	deleted:    Assets/sound files/PB_ gameOver.mp3.meta
+#	deleted:    Assets/sound files/PB_ movingBubbles.mp3.meta
+#	deleted:    Assets/sound files/PB_ randomBubbles.mp3.meta
+#	deleted:    Assets/sound files/PB_ sonarClose.mp3.meta
+#	deleted:    Assets/sound files/PB_ sonarFar.mp3.meta
+#	deleted:    Assets/sound files/PB_ sonarFarShort.mp3
+#	deleted:    Assets/sound files/PB_ sonarFarShort.mp3.meta
+#	deleted:    Assets/sound files/PB_ sonarSmall.mp3.meta
+#	deleted:    Assets/sound files/PB_ stoppedBubbles.mp3.meta
+#	modified:   Echolocation.CSharp.csproj
+#	modified:   Echolocation.sln
+#	modified:   Library/CurrentLayout.dwlt
+#	modified:   Library/InspectorExpandedItems.asset
+#	modified:   Library/ProjectSettings.asset
+#	modified:   Library/ScriptAssemblies/Assembly-CSharp.dll
+#	modified:   Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+#	modified:   Library/ScriptMapper
+#	modified:   Library/assetDatabase3
+#	modified:   Library/expandedItems
+#	modified:   Library/metadata/00/00000000000000002000000000000000
+#	modified:   Library/metadata/00/00000000000000004000000000000000
+#	modified:   Library/metadata/72/722f3fea6e42fc44b84bcebbdf10af65
+#	modified:   Library/shadercompiler-UnityShaderCompiler.exe0.log
+#	modified:   ProjectSettings/InputManager.asset
+#	modified:   ProjectSettings/ProjectSettings.asset
+#
+# Changes not staged for commit:
+#	modified:   .vs/Echolocation/v14/.suo
+#	modified:   Assets/Fish.prefab
+#	modified:   Assets/Main.unity
+#	deleted:    Assets/Plugins.meta
+#	modified:   Assets/Scripts/PlayerMove.cs
+#	modified:   Assets/Thermal Vision/Material/Thermal Vision.mat
+#	modified:   Echolocation.CSharp.csproj
+#	modified:   Echolocation.sln
+#	modified:   Library/CurrentLayout.dwlt
+#	modified:   Library/InspectorExpandedItems.asset
+#	modified:   Library/ProjectSettings.asset
+#	modified:   Library/ScriptAssemblies/Assembly-CSharp.dll
+#	modified:   Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+#	modified:   Library/ScriptMapper
+#	modified:   Library/assetDatabase3
+#	modified:   Library/expandedItems
+#	modified:   Library/metadata/00/00000000000000002000000000000000
+#	modified:   Library/metadata/00/00000000000000004000000000000000
+#	modified:   Library/metadata/72/722f3fea6e42fc44b84bcebbdf10af65
+#	modified:   Library/shadercompiler-UnityShaderCompiler.exe0.log
+#	modified:   ProjectSettings/InputManager.asset
+#	modified:   ProjectSettings/ProjectSettings.asset
+#
+# Untracked files:
+#	Assets/OVR.meta
+#	Assets/OVR/
+#	Assets/Plugins/OVRGamepad.bundle.meta
+#	Assets/Plugins/OVRGamepad.bundle/
+#	Assets/Standard Assets/Fonts.meta
+#	Assets/Standard Assets/Fonts/
+#	Assets/sc.cs
+#	Assets/sc.cs.meta
+#	Assets/sound files.meta
+#	Assets/sound files/PB_ ambiance.mp3.meta
+#	Assets/sound files/PB_ collideFood.mp3.meta
+#	Assets/sound files/PB_ collideFoodShort.mp3
+#	Assets/sound files/PB_ collideFoodShort.mp3.meta
+#	Assets/sound files/PB_ collideObstacle.mp3.meta
+#	Assets/sound files/PB_ gameOver.mp3.meta
+#	Assets/sound files/PB_ movingBubbles.mp3.meta
+#	Assets/sound files/PB_ randomBubbles.mp3.meta
+#	Assets/sound files/PB_ sonarClose.mp3.meta
+#	Assets/sound files/PB_ sonarFar.mp3.meta
+#	Assets/sound files/PB_ sonarFarShort.mp3
+#	Assets/sound files/PB_ sonarFarShort.mp3.meta
+#	Assets/sound files/PB_ sonarSmall.mp3.meta
+#	Assets/sound files/PB_ stoppedBubbles.mp3.meta
+#	zpuovpwu.00h.txt
+#
+
